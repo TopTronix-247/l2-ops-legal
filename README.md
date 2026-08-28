@@ -1,2 +1,5 @@
-# l2-ops-legal
-Public legal pages for L2 OPS Play Console (privacy policy).
+# L2 OPS legal
+
+Public privacy policy for the L2 OPS Android app (`com.l2.ops`).
+
+- Privacy policy: https://tronix247.github.io/l2-ops-legal/privacy.html
